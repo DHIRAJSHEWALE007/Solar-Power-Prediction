@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+requests
+pvlib
+streamlit
+streamlit-folium
+folium
