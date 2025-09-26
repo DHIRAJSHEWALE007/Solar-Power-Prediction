@@ -19,12 +19,12 @@
    ```bash
    pip install -r requirements.txt
 
-4. **Run the Flask app**:
+4. **Run the Streamlit app**:
    ```bash
    streamlit run main.py
 
 5. **Navigate to localhost**:
-   Once the Flask app is running, follow these steps:
+   Once the Streamlit app is running, follow these steps:
 
    1. Open your web browser.
    2. Navigate to http://127.0.0.1:8501/ or http://localhost:8501/
@@ -35,4 +35,5 @@ Feel free to fork this project, improve it, and submit pull requests!
 
 #### License
 This project is MIT Licensed. See the LICENSE file for more details.
+
 
