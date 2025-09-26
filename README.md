@@ -11,7 +11,6 @@
     Create a new Conda environment with the necessary dependencies. Make sure you have conda installed. If not, you can download and install it from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
     ```bash
-    conda env create -f environment.yml
     # Create a Conda environment
     conda create -p ./venv python=3.12 -y
     conda activate venv
@@ -36,3 +35,4 @@ Feel free to fork this project, improve it, and submit pull requests!
 
 #### License
 This project is MIT Licensed. See the LICENSE file for more details.
+
