@@ -1,3 +1,13 @@
+## Screenshots
+Below are some screenshots of the frontend of the application:
+
+### Screenshot 1
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 120135" src="https://github.com/user-attachments/assets/57dcd0d9-7515-44f5-ab0b-026021f2c688" />
+
+### Screenshot 2
+<img width="1919" height="1079" alt="Screenshot 2025-09-27 120256" src="https://github.com/user-attachments/assets/3275e189-597a-4673-893e-44cefe61fdbd" />
+
+
 ### Steps to Run
 
 1. **Clone the repository**:
@@ -35,5 +45,6 @@ Feel free to fork this project, improve it, and submit pull requests!
 
 #### License
 This project is MIT Licensed. See the LICENSE file for more details.
+
 
 
